@@ -1,4 +1,7 @@
-## 3.2.0
+## 4.0.0
+
+* Added `User.getIdToken`.
+
 * The `FirebaseJsNotLoadedException` is thrown when the firebase.js script is not included in the html file.
 
 ## 3.1.0
